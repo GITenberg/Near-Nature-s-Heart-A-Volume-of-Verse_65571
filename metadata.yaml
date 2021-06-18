@@ -1,0 +1,23 @@
+_repo: Near-Nature-s-Heart-A-Volume-of-Verse_65571
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jackson, Crawford
+    gutenberg_agent_id: '53412'
+    url: http://www.gutenberg.org/2009/agents/53412
+description: ''
+gutenberg_issued: '2021-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65571'
+  lccn: '23011586'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry -- 20th century'
+- !lcc 'PS'
+- GITenberg
+title: Near Nature's Heart; A Volume of Verse
+url: http://www.gutenberg.org/ebooks/65571
