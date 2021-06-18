@@ -1,11 +1,16 @@
 _repo: Near-Nature-s-Heart-A-Volume-of-Verse_65571
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 65571-h/images/cover.jpg
 creator:
   author:
     agent_name: Jackson, Crawford
     gutenberg_agent_id: '53412'
     url: http://www.gutenberg.org/2009/agents/53412
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65571#Near-Nature-s-Heart-A-Volume-of-Verse
 gutenberg_issued: '2021-06-08'
 gutenberg_type: Text
 identifiers:
